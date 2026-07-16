@@ -31,9 +31,9 @@
 #define ALGO_STACK        512
 #define TX_STACK           256
 
-#define WIFI_SSID  "1111"
-#define WIFI_PASS  "88888888"
-#define PC_IP      "10.170.89.76"
+#define WIFI_SSID  "YOUR_WIFI_SSID"
+#define WIFI_PASS  "YOUR_WIFI_PASSWORD"
+#define PC_IP      "YOUR_PC_IP_ADDRESS"
 
 typedef struct {
     uint32_t ir[BUFFER_SIZE];
